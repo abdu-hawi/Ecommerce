@@ -1,0 +1,58 @@
+<?php
+
+return [
+    'login' => 'Login',
+    'Sign_in_to_start_your_session' => 'Sign in to start your session',
+    'email' => 'Email',
+    'password' => 'Password',
+    'remember_me' => 'Remember Me',
+    'sing_in' => 'Sign In',
+    'i_forgot_my_password' => 'I forgot my password',
+    'register_a_new_membership' => 'Register a new membership',
+    'email_or_password_field' => 'Email or password is field, Please try again.',
+    'logout' => 'Logout',
+    'request_new_password' => 'Request new password',
+    'signUp' => 'Sign up',
+    'you_forgot_your_password' => 'You forgot your password? Here you can easily retrieve a new password.',
+    'reset_password' => 'Reset Password',
+    'welcome' => 'Welcome',
+    'click_here_to_reset_password' => 'Click Here To Reset Password',
+    'reset_link_is_sent_to_your_email' => 'Reset Link Send To Your Email',
+    'email_is_incorrect' => 'Email is incorrect',
+    'you_have_some_error' => 'You have some error',
+    'please_write_new_password' => 'Please write a new password',
+    'password_confirmation' => 'Password Confirmation',
+    'your_password_is_reset' => 'Your Password is Reset',
+    'dashboard' => 'Dashboard',
+    'home' => 'Home',
+    'admin_account' => 'Admin Account',
+    'name' => 'Name',
+    'create_new_admin' => 'Create new admin',
+    'export' => 'Export',
+    'print' => 'Print',
+    'reset' => 'Reset',
+    'reload' => 'Reload',
+    'admin_name' => 'Admin Name',
+    'all_record' => 'All Records',
+
+
+    "sProcessing"=> "Processing...",
+    "sLengthMenu"=> "Show _MENU_ records",
+    "sZeroRecords"=> "No results found",
+    "sEmptyTable"=> "No data available in this table",
+    "sInfo"=> "Showing records from _START_ to _END_ of a total of _TOTAL_ records",
+    "sInfoEmpty"=> "Showing records from 0 to 0 of a total of 0 records",
+    "sInfoFiltered"=> "(filtering a total of _MAX_ records)",
+    "sSearch"=> "Search:",
+    "sLoadingRecords"=> "Loading ...",
+    "sFirst"=> "First",
+    "sLast"=> "Last",
+    "sNext"=> "Next",
+    "sPrevious"=> "Previous",
+    "sSortAscending"=> ": Activate to sort the column in ascending order",
+    "sSortDescending"=> ": Activate to sort the column in descending order",
+
+
+    ////////////////////////////////////////////////////
+
+];
